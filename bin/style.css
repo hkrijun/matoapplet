@@ -1,0 +1,22 @@
+html, body {
+	background: 		url("web.png") rgb(23,142,0) no-repeat center top;
+	
+	margin: 			0px;
+	padding: 			0px;
+	
+	font-family:		'Century Gothic',Futura,'URW Gothic L',sans-serif;
+	font-size: 			14px;
+	
+	color: 				white;
+}
+
+.applet {
+	border:				3px solid rgb(13, 75, 0);
+}
+
+.div-applet {
+	width:				640px;
+	margin-left:		auto;
+	margin-right:		auto;
+	margin-top:			223px;
+}
